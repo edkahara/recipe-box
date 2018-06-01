@@ -1,0 +1,14 @@
+h1, li, .title {
+  font-family: 'Mina';
+}
+h1, li {
+  text-align: center;
+}
+.title {
+  background-color: #D8BFD8;
+  font-size: 20px;
+}
+li {
+  list-style-type: none;
+  font-size: 18px;
+}
